@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hey Everyone 👋 I'm Vijay
 
-<!--
-**Vijaysama7/Vijaysama7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer (Fresher)**
+🔧 Skills: AWS | Linux | Git | GitHub | Docker | CI/CD
+📚 Completed DevOps Training
+🎯 Passionate about Cloud & Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- 💻 Currently improving DevOps skills
+- 🌐 Interested in Cloud Infrastructure
+- 🤝 Open to collaborate on DevOps projects
+- 📈 Always Learning & Growing
+
+---
+
+### 🛠 Tools & Technologies
+✔ AWS  
+✔ Linux  
+✔ Git & GitHub  
+✔ Docker  
+✔ Jenkins  
+✔ Kubernetes (Learning)
+
+---
+
+⭐ Thanks for visiting my profile!
