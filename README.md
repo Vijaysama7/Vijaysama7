@@ -1,4 +1,4 @@
-C:\Users\LENOVO\Downloads\_Purple Geometric Technology Linkedin Banner" (1).png
+
 
 ### Hey Everyone 👋 I'm Vijay
 
