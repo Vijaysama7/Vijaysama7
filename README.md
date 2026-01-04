@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="C:\Users\LENOVO\Downloads\_Purple Geometric Technology Linkedin Banner" (1).png" alt="DevOps Banner"/>
+</p>
 
 ### Hey Everyone 👋 I'm Vijay
 
